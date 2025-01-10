@@ -9,7 +9,7 @@ const footer_links = `
                 </font>
                 <a href="https://github.com/rtzg">ReTrn - Developer</a>
                 <a href="https://chutm-sdl.web.app/">SDL Journals</a>
-                <a onclick="pujs.alert('Not available now.')">Music Portfolio</a>
+                <a href="https://ctm-music.web.app/">Music Portfolio</a>
             </div>
         </div>
         <div class="cols">
@@ -41,7 +41,7 @@ const footer_links = `
 const copyright_info = `<p class="color-gray small">Copyright &copy; ${new Date().getFullYear()} Ming's. All rights reserved.</p>`;
 
 const nav_links = `<a href="/about/">About</a>
-<a  onclick="pujs.alert('Not available now.')">Music Portfolio</a>
+<a  href="https://ctm-music.web.app/">Music Portfolio</a>
 <a href="https://chutm-sdl.web.app/">SDL Journals</a>
 <a href="/about/contact.html">Contact</a>`;
 
